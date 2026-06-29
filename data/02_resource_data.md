@@ -75,6 +75,8 @@ When setting up resources in Arena, use these exact names
 | Crane (1 unit) | ~90% | Shared between Phase 2 steel renewal and Phase 3 propeller/shaft lifting — both need it simultaneously |
 | Blast machines (4 units) | ~90% |
 
+---
+
 ## Data Sources & References
 
 | # | Source | Used For |
