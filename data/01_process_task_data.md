@@ -8,13 +8,18 @@
 - **Time unit used throughout:** Hours
 - **Docking cycle:** 5-year Special Survey
 
-## Data Sources
-- IMO SOLAS regulations (5-year docking requirement)
-- Teekay Corporation dry dock case study (2016)
-- Dev & Saha (2015, 2016) — ship repairing time and labour study (586 cargo ships)
-- Marine Insight dry dock guidelines
-- Industry expert forums (dieselduck.info)
-- Quora maritime engineering Q&A
+## Data Sources & References
+
+| # | Source | Used For |
+|---|--------|---------|
+| 1 | [IMO SOLAS Regulations — Chapter II-1](https://www.imo.org) | 5-year docking frequency requirement |
+| 2 | [Teekay Corporation — Step by Step Dry Docking (2016)](https://www.teekay.com/blog/2016/04/18/step-step-glimpse-dry-docking-process/) | Hull wash, blasting, painting sequence and description |
+| 3 | [Dev & Saha (2015) — Ship Repairing Time Study, 586 cargo ships](https://scispace.com/pdf/dry-docking-time-and-labour-46slnefmiw.pdf) | Task duration benchmarks, labour estimates |
+| 4 | [Marine Inspection — Dry Dock Preparation Guide](https://marineinspection.app/blog/dry-dock-preparation-united-states) | Planning timelines, cost ranges |
+| 5 | [Nautilus Shipping — Dry Dock Planning Guide](https://www.nautilusshipping.com/news-and-insights/dry-dock-planning-a-practical-guide-for-safer-smarter-vessel-maintenance-for-maritime-operations) | Routine vs major dock duration (10–14 days vs extended) |
+| 6 | [Diesel Duck Engineering Forum](https://www.dieselduck.info/forum/viewtopic.php?t=77) | Engine overhaul timing, dock duration industry experience |
+| 7 | [Marine Insight — Dry Dock Types and Requirements](https://www.marineinsight.com/guidelines/dry-dock-types-of-dry-docks-requirements-for-dry-dock/) | Dock dewatering time (8–10 hrs), block placement procedure |
+| 8 | [Quora — Dry Dock Costs](https://www.quora.com/How-much-does-dry-docking-a-ship-for-repairs-cost-What-are-the-costs-involved) | Cost ranges by vessel type and scope |
 
 ## Duration Notation
 All durations written as TRIA(min, mode, max) in hours.
