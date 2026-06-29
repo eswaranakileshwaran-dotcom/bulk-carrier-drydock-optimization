@@ -51,6 +51,6 @@ event simulation.
 - Off-hire days saved per scenario
 
 ## Author
-Akileshwaran Eswaran
-USC Industrial & Systems Engineering Graduate
-Portfolio project — 2026
+# Akileshwaran Eswaran
+# USC Industrial & Systems Engineering Graduate
+# Portfolio project — 2026
