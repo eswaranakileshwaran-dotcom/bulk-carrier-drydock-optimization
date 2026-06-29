@@ -68,7 +68,10 @@ event costs approximately $12,000–$23,000 in combined losses.
 Shipyard selection is a major strategic decision. Cheaper labor
 doesn't always mean lower total cost — transit days add off-hire time.
 
-| Location | Labor Cost | Quality | Transit Days (from Asia route) | Dock Rental | Best For |
+> Route assumption: Asia-Pacific (Australia → China/Japan iron ore trade).
+> Base port for transit calculation: Singapore.
+
+| Location | Labor Cost | Quality | Transit Days (from Singapore — Asia-Pacific route) | Dock Rental | Best For |
 |----------|-----------|---------|-------------------------------|------------|---------|
 | China (Shanghai / Guangzhou) | Low | High | 0–3 | Low | Cost-sensitive, high volume |
 | South Korea (Busan) | Medium-High | Very High | 0–2 | Medium | Quality-critical work |
