@@ -93,18 +93,33 @@ In a Value Stream Map, every process station has a data box below it showing:
 
 Takt time = available time / customer demand rate
 
-For dry dock this is interpreted as:
-- Available dock time = 504 hrs (21 days — target window)
-- Number of process "units" = 7 major phase completions required
-- **Takt time = 504 / 7 = 72 hours per phase**
+Definitions for this project:
+- Available dock time = 504 hrs (21 days — contracted target window)
+- Customer demand unit = 1 class survey certificate
+- Number of certificates required = 7 (hull, propeller/shaft, main engine,
+  boiler, load line, safety equipment, MARPOL)
+- Rationale: survey certificates are the externally mandated deliverables
+  the ship owner and classification society require before the vessel
+  can legally return to service. They are discrete, equal-weight outputs
+  that drive the entire dock schedule.
 
-Any phase taking longer than 72 hours is behind takt and must be
-addressed in the future state design.
+**Takt Time = 504 hrs / 7 certificates = 72 hours per certificate**
 
-Phases currently over takt:
-- Grit blasting: 96 hrs ❌
-- Engine overhaul: 96 hrs ❌
-- Tank inspection: 96 hrs ❌
+This means the process must deliver one survey-ready work package
+every 72 hours to meet the 21-day target.
+
+Phases currently exceeding 72-hour takt:
+- Grit blasting: 96 hrs ❌ — equipment constrained (blast machines)
+- Engine overhaul: 96 hrs ❌ — shift constrained (1 shift only)
+- Tank inspection: 96 hrs ❌ — crew constrained (confined space rules)
+
+> Limitation: Takt time is most precise in repetitive manufacturing
+> where each unit is identical. In dry dock — a project environment —
+> survey certificates vary in complexity and duration (4–12 hrs each).
+> Takt time is therefore used here as a directional benchmarking tool
+> to identify over-consuming phases, not as a precise production target.
+> This limitation is acknowledged per lean literature on project-based
+> environments (Womack & Jones, Lean Thinking, 1996).
 
 ---
 
