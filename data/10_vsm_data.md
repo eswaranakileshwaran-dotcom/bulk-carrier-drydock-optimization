@@ -59,56 +59,6 @@ into a probability distribution rather than picking one number for the
 | **Excess motion/handling** | Equipment moved across double/triple-banked vessels — the criticality-of-movement issue driving Arena Scenario 3 | 15–50% time penalty on crane-dependent tasks |
 
 ---
-
-## Push vs Pull Analysis
-
-### Current State — Push System
-- Steel renewal tonnage assumed at contract stage; actual gauging may
-  reveal more, forcing a schedule extension
-- Surveyor called reactively rather than pre-booked against the 20-year
-  statutory milestone
-- Crane allocated first-come-first-served across docked/banked vessels
-
-### Future State — Pull System (Target)
-- Pre-dock ROV survey (T02) narrows the 600–800 t estimate before
-  docking, tightening the steel-duration range
-- Surveyor attendance locked to the fixed 20-year statutory schedule
-  at project start
-- Non-dock work (T11, T12) pulled off the dry dock and routed to repair
-  berth as standard practice, not an exception
-- Crane priority rules defined in advance for banked-vessel scenarios,
-  rather than negotiated in real time
-
----
-
-## Takt Time Calculation
-
-Available dock time = target dock window (set this from your contract —
-the low end of the steel range, ~24 days, is the aggressive target;
-53 days is the capacity-constrained ceiling).
-
-Customer demand unit = 1 statutory certificate required for the 20-year
-Special Survey (hull, propeller/shaft, main engine, boiler, load line,
-safety equipment, MARPOL — same 7-certificate structure as the original
-VSM, since these are class-mandated regardless of survey type).
-
-**Takt time = available dock days × 24 hrs ÷ 7 certificates**
-
-At the aggressive 24-day target: 576 hrs ÷ 7 ≈ **82 hours/certificate**
-At the 53-day ceiling: 1,272 hrs ÷ 7 ≈ **182 hours/certificate**
-
-Phases likely exceeding the aggressive takt (82 hrs):
-- Steel renewal (all three blocks) — capacity-constrained, will exceed
-  takt except at the very low end of the tonnage range
-- Main engine overhaul — 432+ hrs, well above takt, but runs in
-  parallel so doesn't extend the dock stay by itself
-
-Same limitation note as the original VSM applies: takt time here is a
-directional benchmarking tool for a project-based (not repetitive)
-process, not a precise production target.
-
----
-
 ## Data Sources & References
 
 | # | Source | Used For |
