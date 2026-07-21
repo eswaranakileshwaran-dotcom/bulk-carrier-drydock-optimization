@@ -1,7 +1,4 @@
 # VSM Data — Current State Value Stream Map (20-Year Special Survey)
-
-File: `data/10_vsm_data.md`
-
 This supersedes `04_vsm_data.md` (kept in the repo as the original 5-year
 baseline, per the note added in `05_scope_update.md`). Data box values
 below are pulled from `07_process_task_data.md` (durations),
