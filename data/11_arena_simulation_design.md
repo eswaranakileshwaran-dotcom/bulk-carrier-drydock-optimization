@@ -1,7 +1,4 @@
 # Arena Simulation & Scenario Testing Design
-
-File: `data/11_arena_simulation_design.md`
-
 This is the build spec for the Arena model. It reads durations from
 `07_process_task_data.md`, resources from `08_resource_data.md`
 (including the banking berth rules), and applies the cost formula from
