@@ -1,7 +1,5 @@
 # VSM Data — Current State Value Stream Map
 
-> Original 5-year dry dock baseline (superseded scope, kept for reference)
-
 ## Purpose
 This file contains all data box values for the current state Value Stream Map.
 Each row = one process station on the VSM. These numbers feed directly into
