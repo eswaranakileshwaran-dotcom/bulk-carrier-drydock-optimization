@@ -1,7 +1,4 @@
 # Resource Data — 20-Year Special Survey (Revised Scope)
-
-File: `data/08_resource_data.md`
-
 Purpose: defines the resources that `07_process_task_data.md` tasks
 consume. This is the direct input to the Arena model's resource blocks
 (dock, repair berth, crane, crews) and to the utilization KPIs in the
