@@ -13,38 +13,13 @@ that decision before the process/Gantt/DES files are rebuilt around it.
 **Rationale:**
 
 
-|
- Criterion 
-|
- Why it favors this yard 
-|
----
-|
-|
- Steel renewal unit cost (US$/ton) 
-|
- Indexed at [X] vs. benchmark average of [Y] — lowest of the three yards compared, for the 600–800 t tonnage band 
-|
-|
- Steel renewal production capacity 
-|
- [15–25] tons/day — sets the critical-path duration for the steel work package 
-|
-|
- Labor cost base 
-|
- Indexed [Z]% below the South Asia/Middle East average considered 
-|
-|
- Engine/aux equipment overhaul capability 
-|
- In-house OEM-approved service for main/aux engine and pump/compressor overhaul available on site — avoids sub-contracting delay 
-|
-|
- Class surveyor availability 
-|
- Surveyor attendance pre-bookable at yard, reducing the average [W]-day waiting time seen at less-established yards 
-|
+| Criterion | Why it favors this yard |
+|---|---|
+| Steel renewal unit cost (US$/ton) | Indexed at [X] vs. benchmark average of [Y] — lowest of the three yards compared, for the 600–800 t tonnage band |
+| Steel renewal production capacity | [15–25] tons/day — sets the critical-path duration for the steel work package |
+| Labor cost base | Indexed [Z]% below the South Asia/Middle East average considered |
+| Engine/aux equipment overhaul capability | In-house OEM-approved service for main/aux engine and pump/compressor overhaul available on site — avoids sub-contracting delay |
+| Class surveyor availability | Surveyor attendance pre-bookable at yard, reducing the average [W]-day waiting time seen at less-established yards |
 
 Three options were benchmarked for this 20-year special survey: the
 selected China yard, a South Asia yard (India/Bangladesh region), and a
