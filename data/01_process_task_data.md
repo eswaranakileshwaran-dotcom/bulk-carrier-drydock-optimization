@@ -1,7 +1,5 @@
 # Process Task Data — Bulk Carrier Dry Dock
 
-> Original 5-year dry dock baseline (superseded scope, kept for reference)
-
 ## Vessel Reference
 - **Type:** Panamax Bulk Carrier
 - **DWT:** ~75,000 DWT
