@@ -1,7 +1,4 @@
 # Cost Data — 20-Year Special Survey (Revised Scope)
-
-File: `data/09_cost_data.md`
-
 Purpose: applies cost rates to the tasks in `07_process_task_data.md`
 and the resources in `08_resource_data.md`, so the Arena model can report
 cost alongside time. Rates below are **indexed (base 100 = dry dock
