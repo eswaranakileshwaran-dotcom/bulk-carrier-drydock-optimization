@@ -18,9 +18,6 @@ that decision before the process/Gantt/DES files are rebuilt around it.
 |
  Why it favors this yard 
 |
-|
----
-|
 ---
 |
 |
