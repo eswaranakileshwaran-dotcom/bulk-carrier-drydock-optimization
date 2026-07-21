@@ -1,7 +1,4 @@
 # Process Task Data — 20-Year Special Survey (Revised Scope)
-
-File: `data/07_process_task_data.md`
-
 Purpose: this is the task-level source data. `10_vsm_data.md` aggregates
 these into VSM data boxes; the Gantt chart and Arena model both read
 durations and predecessors from this table rather than restating them.
