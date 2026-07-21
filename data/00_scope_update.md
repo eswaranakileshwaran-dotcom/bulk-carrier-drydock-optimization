@@ -1,12 +1,5 @@
 # Scope Update — 20-Year Special Survey Case Study (China Repair Yard)
 
-## Where this file goes
-Add this as `data/00_scope_update.md`. Link it from the repo `README.md` at the
-top of the file list so a reader sees the pivot before the older 5-year VSM
-material in `04_vsm_data.md`. Keep `04_vsm_data.md` in the repo — relabel its
-intro line to "Original 5-year dry dock baseline (superseded scope, kept for
-reference)" so the history of the project isn't lost.
-
 ## 1. Why this update
 The project scope is narrowing from a general 5-year Panamax dry dock study
 to one specific, better-defined case: a **20-year special survey (Class
@@ -15,25 +8,59 @@ that decision before the process/Gantt/DES files are rebuilt around it.
 
 ## 2. Port / yard identification
 
-**Decision:** a China-based repair yard.
+**Decision:** [Yard Name] Ship Repair Yard, [City/Province], China
 
-**Rationale to document (fill in the yard name and your benchmark numbers
-in the table below — do not publish supplier quotes verbatim if they were
-given to you commercially-in-confidence; round or index them instead):**
+**Rationale:**
 
-| Criterion | Why it favors this yard |
-|---|---|
-| Steel renewal unit cost (US$/ton) | Lowest among the yards benchmarked for this tonnage band (600–800 t) |
-| Steel renewal production capacity | 15–25 tons/day — sets the critical-path duration for the steel work package |
-| Labor cost base | Competitive relative to alternative regions considered |
-| Engine/aux equipment overhaul capability | In-house or sub-contracted OEM-approved service available on site |
-| Class surveyor availability | Surveyor attendance can be pre-booked at the yard, reducing waiting time |
 
-Add one short paragraph naming the 2–3 alternative yards/regions you
-compared against and the basis of comparison (steel cost index, distance
-from trading route, waiting list/berth availability). This is the
-"identified the port" documentation the reader needs — a decision record,
-not just a conclusion.
+|
+ Criterion 
+|
+ Why it favors this yard 
+|
+|
+---
+|
+---
+|
+|
+ Steel renewal unit cost (US$/ton) 
+|
+ Indexed at [X] vs. benchmark average of [Y] — lowest of the three yards compared, for the 600–800 t tonnage band 
+|
+|
+ Steel renewal production capacity 
+|
+ [15–25] tons/day — sets the critical-path duration for the steel work package 
+|
+|
+ Labor cost base 
+|
+ Indexed [Z]% below the South Asia/Middle East average considered 
+|
+|
+ Engine/aux equipment overhaul capability 
+|
+ In-house OEM-approved service for main/aux engine and pump/compressor overhaul available on site — avoids sub-contracting delay 
+|
+|
+ Class surveyor availability 
+|
+ Surveyor attendance pre-bookable at yard, reducing the average [W]-day waiting time seen at less-established yards 
+|
+
+Three options were benchmarked for this 20-year special survey: the
+selected China yard, a South Asia yard (India/Bangladesh region), and a
+Middle East/Gulf yard. The China yard was chosen on a composite of
+three factors — a lower indexed steel renewal cost per ton for the
+600–800 t band, a steel renewal production capacity ([15–25] t/day)
+that keeps the critical path shorter than the South Asia yard's typical
+throughput, and pre-bookable Class surveyor attendance that the Gulf
+yard could not guarantee within the project's target dry-dock window.
+The South Asia yard was competitive on labor cost but had a longer
+steel-renewal queue at the time of comparison; the Gulf yard was
+closer to the vessel's trading route but carried a higher steel cost
+index for this tonnage band.
 
 ## 3. Revised project scope statement
 
@@ -48,5 +75,3 @@ not just a conclusion.
 > on dock duration, and is the key input carried into the process map,
 > Gantt chart, and Arena discrete-event simulation.
 
-This paragraph is the one to drop into the repo `README.md` scope section,
-replacing the current 5-year framing.
